@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Apache License version 2.0"
+
+[[mods]]
+modId="better_mc"
+version="1.0.0"
+displayName="Better MC"
+credits="Created using MCreator - https://mcreator.net/about"
+displayURL="https://pitchblacknights.github.io"
+authors="PitchBlackNights"
+description='''
+A mod that makes Minecraft better!
+'''
+
+[[dependencies.better_mc]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
